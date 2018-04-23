@@ -24,9 +24,9 @@ Este é o bot que irá mudar a forma de guardar suas informações!
 >
 > O primeiro passo é iniciar o bot, enviando o comando _/start_. Se for a primeira vez que você está utilizando o bot este passo é necessário. É através do comando _/start_ que você efetua seu cadastro.
 >
-> ![description](Prints/ola.jpeg)
+> ![description](Prints/1. ola.jpeg)
 >
-> ![description](Prints/start.jpeg)
+> ![description](Prints/2. start.jpeg)
 >
 >
 >
@@ -34,7 +34,7 @@ Este é o bot que irá mudar a forma de guardar suas informações!
 >>
 >> No Helper Bot o seu guia será o comando _/help_, que trará todas as informações necessárias para a utilização do bot.
 >>
->> ![description](Prints/help.jpeg)
+>> ![description](Prints/3. help.jpeg)
 >
 >
 >
@@ -43,7 +43,7 @@ Este é o bot que irá mudar a forma de guardar suas informações!
 >> Agora, devemos adicionar uma matéria para começar a utilizar o bot, usando o _/addmateria_ nós podemos adicionar uma matéria ao banco de dados.
 >> Basta digitar _/addmatéria nomeMatéria descriçãoMatéria_.
 >>
->> ![description](img/addmatéria.jpeg)
+>> ![description](img/4. addmatéria.jpeg)
 >
 >
 >
@@ -52,7 +52,7 @@ Este é o bot que irá mudar a forma de guardar suas informações!
 >> Para organizar melhor nossas informações e incrementar o conteúdo de nossa matéria, vamos adicionar um tópico, com o comando _/addtopico_.
 >> Para um tópico você pode adicionar um nome, um link para acessar as informações do tópico e uma descrição. Digite _/addtopico nomeTópico linkTópico descriçãoTópico_.
 >>
->> ![description](Prints/addtópico.jpeg)
+>> ![description](Prints/5. addtópico.jpeg)
 >
 >
 >
@@ -69,7 +69,7 @@ Este é o bot que irá mudar a forma de guardar suas informações!
 >> É simples. Para ver os tópicos de uma matéria você só precisa digitar o nome da matéria.
 >>
 >> ![description](Prints/mat1.jpeg)
-
+>
 > #### *Se aprofundando nos tópicos*
 >>
 >> Para acessar as informações contidas em cada tópico, digite _/study nomeTópico_.
