@@ -1,13 +1,13 @@
 # Helpperbot2.0
 Este é o bot que ira mudar a forma de guardar suas informações!
 
-###Inove a forma que você guarda suas informações!
+### Inove a forma que você guarda suas informações!
 
 >> Agora com um bot no telegram todos podem organizar seus conhecimentos matérias e tópicos!
 
 ---
 
-###**Sobre:**
+### Sobre:
 
 >> Bot criado como resultado de um trabalho acadêmico, para assimilação do uso do padrão de arquitetura de software MVC.
 proposto pelo professor Giuliano Bertoti em 2018, na instituição de ensino FATEC professor Jessen Vidal de São josé dos Campos.
@@ -20,9 +20,9 @@ proposto pelo professor Giuliano Bertoti em 2018, na instituição de ensino FAT
 
 ---
 
-###**Primeiro passo**
+### Como utilizar
 
->>O primeiro passo é mandar o /start, sem ele não a como prosseguir, ele é nescessario para o seu cadastramento!
+>>O primeiro passo é iniciar o bot, enviando o comando /start. Se for a primeira vez que você está utilizando o bot este passo é necessário. É através do comando /start que você efetua seu cadastro.
 
 ![discription](img/start)
 
