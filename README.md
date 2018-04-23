@@ -24,55 +24,59 @@ Este é o bot que irá mudar a forma de guardar suas informações!
 >
 > O primeiro passo é iniciar o bot, enviando o comando _/start_. Se for a primeira vez que você está utilizando o bot este passo é necessário. É através do comando _/start_ que você efetua seu cadastro.
 >
-> ![discription](img/start)
+> ![description](Prints/ola)
+>
+> ![description](Prints/start)
 >
 >
 >
->> #### O seu guia
+> #### *O seu guia*
 >>
 >> No Helper Bot o seu guia será o comando _/help_, que trará todas as informações necessárias para a utilização do bot.
 >>
->> ![discription](img/help)
+>> ![description](Prints/help)
 >
 >
 >
->> #### Vamos começar a utilizar!
+> #### *Vamos começar a utilizar!*
 >>
 >> Agora, devemos adicionar uma matéria para começar a utilizar o bot, usando o _/addmateria_ nós podemos adicionar uma matéria ao banco de dados.
 >> Basta digitar _/addmatéria nomeMatéria descriçãoMatéria_.
 >>
->> ![discription](img/addmateria)
+>> ![description](img/addmatéria)
 >
 >
 >
->> #### Incrementar nossa matéria!
+> #### *Incrementar nossa matéria!*
 >>
 >> Para organizar melhor nossas informações e incrementar o conteúdo de nossa matéria, vamos adicionar um tópico, com o comando _/addtopico_.
 >> Para um tópico você pode adicionar um nome, um link para acessar as informações do tópico e uma descrição. Digite _/addtopico nomeTópico linkTópico descriçãoTópico_.
 >>
->> ![discription](img/addtopico)
+>> ![description](Prints/addtópico)
 >
 >
 >
->> #### Agora vamos acessar nossas informações cadastradas
+> #### *Agora vamos acessar nossas informações cadastradas*
 >>
 >> Parabéns! Agora você tem uma matéria adicionada, pelo menos. Então vamos descobrir como ter acesso às suas matérias já cadastradas. Digite _/listmateria_ para consultar suas matérias.
 >>
->> ![discription](img/listmateria)
+>> ![description](Prints/listmateria)
 >
 >
 >
->> #### E para ver os tópicos?
+> #### *E para ver os tópicos?*
 >>
 >> É simples. Para ver os tópicos de uma matéria você só precisa digitar o nome da matéria.
 >>
->> ![discription](img/mat1)
+>> ![description](Prints/mat1)
 
->> #### Se aprofundando nos tópicos
+> #### *Se aprofundando nos tópicos*
 >>
 >> Para acessar as informações contidas em cada tópico, digite _/study nomeTópico_.
 >>
->> ![discription](img/study)
+>> ![description](Prints/study)
+>>
+>> ![description](Prints/study2)
 
 
 
