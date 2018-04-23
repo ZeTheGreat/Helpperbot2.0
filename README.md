@@ -28,8 +28,8 @@ Este é o bot que irá mudar a forma de guardar suas informações!
 >
 >
 >
-> #### O seu guia
->
+>> #### O seu guia
+>>
 >> No Helper Bot o seu guia será o comando _/help_, que trará todas as informações necessárias para a utilização do bot.
 >>
 >> ![discription](img/help)
@@ -54,7 +54,7 @@ Este é o bot que irá mudar a forma de guardar suas informações!
 >
 >
 >
-> #### Agora vamos acessar nossas informações cadastradas
+>> #### Agora vamos acessar nossas informações cadastradas
 >>
 >> Parabéns! Agora você tem uma matéria adicionada, pelo menos. Então vamos descobrir como ter acesso às suas matérias já cadastradas. Digite _/listmateria_ para consultar suas matérias.
 >>
@@ -62,13 +62,13 @@ Este é o bot que irá mudar a forma de guardar suas informações!
 >
 >
 >
-> #### E para ver os tópicos?
+>> #### E para ver os tópicos?
 >>
 >> É simples. Para ver os tópicos de uma matéria você só precisa digitar o nome da matéria.
 >>
 >> ![discription](img/mat1)
 
-> #### Se aprofundando nos tópicos
+>> #### Se aprofundando nos tópicos
 >>
 >> Para acessar as informações contidas em cada tópico, digite _/study nomeTópico_.
 >>
