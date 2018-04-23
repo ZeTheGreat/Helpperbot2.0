@@ -36,16 +36,16 @@ Este é o bot que irá mudar a forma de guardar suas informações!
 >
 >
 >
-> #### Vamos começar a utilizar!
->
+>> #### Vamos começar a utilizar!
+>>
 >> Agora, devemos adicionar uma matéria para começar a utilizar o bot, usando o _/addmateria_ nós podemos adicionar uma matéria ao banco de dados.
 >> Basta digitar _/addmatéria nomeMatéria descriçãoMatéria_.
 >>
 >> ![discription](img/addmateria)
-
-
-
-> #### Incrementar nossa matéria!
+>
+>
+>
+>> #### Incrementar nossa matéria!
 >>
 >> Para organizar melhor nossas informações e incrementar o conteúdo de nossa matéria, vamos adicionar um tópico, com o comando _/addtopico_.
 >> Para um tópico você pode adicionar um nome, um link para acessar as informações do tópico e uma descrição. Digite _/addtopico nomeTópico linkTópico descriçãoTópico_.
