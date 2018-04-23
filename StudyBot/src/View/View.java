@@ -13,7 +13,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 public class View {
-    TelegramBot bot = TelegramBotAdapter.build("577609290:AAHb3UcJN-7S-Ys31yPhb5W8yJNnAdU_upA");
+    TelegramBot bot = TelegramBotAdapter.build("");
     GetUpdatesResponse UPR;
     SendResponse SR;
     private int QI = 0;
