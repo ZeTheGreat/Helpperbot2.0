@@ -1,8 +1,5 @@
 package Model;
 
-import com.pengrad.telegrambot.model.Update;
-import Controller.*;
-
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -99,6 +96,7 @@ public class Model {
                 id_mat = rs.getInt("id_mat");
                 nome_mat = rs.getString("nome_mat");
                 desc_mat = rs.getString("desc_mat");
+                System.out.println(nome_mat);
                 materia= new Materia(id_us ,id_mat, nome_mat,desc_mat);
                 Matérias.add(materia);
 
@@ -152,6 +150,7 @@ public class Model {
         }
     }
     private void Start (){
+        System.out.println(purple+"Start"+clear);
         getUsersId();
         callMat();
         callTop();
@@ -182,6 +181,7 @@ public class Model {
         return resp;
     }
     private String addTópico(long ID,String msg) throws SQLException {
+        System.out.println(purple+"addtopico"+clear);
         String resp="Tópico adicionada com exito!",desc;
         String[] listmsg= msg.split(" ");
         int idmat=-1;
@@ -227,16 +227,18 @@ public class Model {
         return resp;
     }
     private String Normalresponse(long ID,String msg){
+        Start();
         String resp="Nao é o nome de nenhuma matéria";
         for (Materia materia:Matérias){
             if(materia.ID_us==ID) {
                 if(materia.nome.equals(msg)){
                     resp="Os tópicos são: ";
-                    for (int x=0;x<materia.Tópicos.size();x++){
+                    for (int x=0;x<materia.Tópicos.size()/4;x++){
                         resp+=materia.Tópicos.get(x).nome;
+                        System.out.println(x);
                         resp+=" ";
-                        break;
                     }
+                    break;
                 }
             }
         }
