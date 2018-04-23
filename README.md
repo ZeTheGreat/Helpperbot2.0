@@ -7,20 +7,20 @@ Este é o bot que ira mudar a forma de guardar suas informações!
 
 ---
 
-###Sobre:
+###**Sobre:**
 
 >> Bot criado como resultado de um trabalho acadêmico, para assimilação do uso do padrão de arquitetura de software MVC.
 proposto pelo professor Giuliano Bertoti em 2018, na instituição de ensino FATEC professor Jessen Vidal de São josé dos Campos.
 
 ---
 
-###Tecnologias utilizadas
+###**Tecnologias utilizadas:**
 
 >> Aplicativo de mensagens Telegram, Java, padrão MVC, StarUML.
 
 ---
 
-###Primeiro passo
+###**Primeiro passo**
 
 >>O primeiro passo é mandar o /start, sem ele não a como prosseguir, ele é nescessario para o seu cadastramento!
 
@@ -28,7 +28,7 @@ proposto pelo professor Giuliano Bertoti em 2018, na instituição de ensino FAT
 
 ---
 
-###O seu guia
+###**O seu guia**
 
 >> No Helpper Bot o seu guia sera o /help, que trará todas as informações nescessarias para utilização do bot!
 
@@ -36,7 +36,7 @@ proposto pelo professor Giuliano Bertoti em 2018, na instituição de ensino FAT
 
 ---
 
-###Vamos começar a utilizar!
+###**Vamos começar a utilizar!**
 
 >>Agora devemos adicionar uma matéria para começar a utilizar o bot, usando o /addmateria nós podemos criar uma matéria.
 
@@ -44,7 +44,7 @@ proposto pelo professor Giuliano Bertoti em 2018, na instituição de ensino FAT
 
 ---
 
-###Incrementar nossa matéria!
+###**Incrementar nossa matéria!**
 
 >>Para incrementar a matéria é nescessario apenas o /addtopico, para organizar nossos conhecimentos!!
 
