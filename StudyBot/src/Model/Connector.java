@@ -17,7 +17,7 @@ public class Connector {
     private final String DRIVER = "com.mysql.jdbc.Driver";
     private final String URL = "jdbc:mysql://localhost:3306/studybot";
     private final String USER = "root";
-    private final String PW = "tison123";
+    private final String PW = "";
 
     public void getConnection() {
         try {
