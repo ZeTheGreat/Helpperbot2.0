@@ -26,7 +26,7 @@ Este é o bot que irá mudar a forma de guardar suas informações!
 >
 > 
 >
-> ![description](Prints/start.jpeg)
+> ![description](Prints/start.png)
 >
 >
 >
@@ -35,7 +35,7 @@ Este é o bot que irá mudar a forma de guardar suas informações!
 >> No Helper Bot o seu guia será o comando _/help_, que trará todas as informações necessárias para a utilização do bot.
 >>
 >> 
->  ![description](Prints/help.jpeg)
+>  ![description](Prints/help.png)
 >
 >
 >
@@ -44,9 +44,9 @@ Este é o bot que irá mudar a forma de guardar suas informações!
 >> O bot organiza suas informaçes em tópicos, onde cada tópico pode possuir diversos subtópicos.
 >> Para adicionar um tópico você deve enviar o nome do tópico pai, o nome do tópico, sua descrição, um link para acessar as informações do tópico e uma descrição. Aperte o botão _/addtopico_ e siga as instruções do bot.
 >>
->> ![description](Prints/addtópico1.jpeg)
->> ![description](Prints/addtopico2.jpeg)
->> ![description](Prints/addtopico3.jpeg)
+>> ![description](Prints/addtópico1.png)
+>> ![description](Prints/addtopico2.png)
+>> ![description](Prints/addtopico3.png)
 >
 >
 >
